@@ -50,7 +50,8 @@ This is a clone of jQuery, a popular framework used for creating websites. Find 
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: The $(p) function. This function is used for performing selector operations when passed a string as a parameter (p). Otherwise it returns an array representation of our parameter. ;\
+:heavy_check_mark: The $(p) function. This function is used for performing selector operations when passed a string as a parameter (p). Otherwise it returns an array representation of our parameter.![func](https://user-images.githubusercontent.com/59823103/132191565-e583e7a8-3c6d-4757-9877-ca3f560d36e7.PNG)
+ ;\
 :heavy_check_mark: Feature 2;\
 :heavy_check_mark: Feature 3;
 
