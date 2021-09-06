@@ -37,7 +37,7 @@
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <!--<a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;-->
-  <a href="#checkered_flag-starting">Starting Up This Project</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <!--<a href="#memo-license">License</a> &#xa0; | &#xa0;-->
   <a href="https://github.com/Abdul-117" target="_blank">Author</a>
 </p>
@@ -70,7 +70,7 @@ This is a clone of jQuery, a popular framework used for creating websites. Find 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
-## :checkered_flag: Starting Up This Project ##
+## :checkered_flag: Starting ##
 
 ```html
 <!--In your index.html file inside the script tag-->
