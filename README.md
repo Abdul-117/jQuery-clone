@@ -52,6 +52,7 @@ This is a clone of jQuery, a popular framework used for creating websites. Find 
 
 :heavy_check_mark: The $(p) function. This function is used for performing selector operations when passed a string as a parameter (p). Otherwise it returns an array representation of our parameter.
  \
+ ![func](https://user-images.githubusercontent.com/59823103/132195910-8ddd8f16-9e6b-4a89-bd4d-2a450df147de.PNG)
 :heavy_check_mark: An ElementCollector class that extends the Array. It is objects of this class that come with the ready(), on(), next(), prev(), addClass(), removeClass() and css() functions.
  \
 :heavy_check_mark: Ajax support through the AjaxPromise class.
