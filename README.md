@@ -37,7 +37,7 @@
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <!--<a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;-->
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting Up This Project</a> &#xa0; | &#xa0;
   <!--<a href="#memo-license">License</a> &#xa0; | &#xa0;-->
   <a href="https://github.com/Abdul-117" target="_blank">Author</a>
 </p>
