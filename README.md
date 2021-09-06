@@ -51,9 +51,9 @@ This is a clone of jQuery, a popular framework used for creating websites. Find 
 ## :sparkles: Features ##
 
 :heavy_check_mark: The $(p) function. This function is used for performing selector operations when passed a string as a parameter (p). Otherwise it returns an array representation of our parameter.
- ;\
+ \
 :heavy_check_mark: An ElementCollector class that extends the Array. It is objects of this class that come with the ready(), on(), next(), prev(), addClass(), removeClass() and css() functions.
- ;\
+ \
 :heavy_check_mark: Ajax support through the AjaxPromise class.
 
 
