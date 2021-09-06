@@ -15,7 +15,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Abdul-117/jQuery-clone?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/Abdul-117/jQuery-clone?color=56BEB8">
+  <!--<img alt="License" src="https://img.shields.io/github/license/Abdul-117/jQuery-clone?color=56BEB8">-->
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/jqueryclone?color=56BEB8" /> -->
 
@@ -57,12 +57,12 @@ This is a clone of jQuery, a popular framework used for creating websites. Find 
 :heavy_check_mark: An ElementCollector class that extends Array. It is objects of this class that come with the ready(), on(), next(), prev(), addClass(), removeClass() and css() functions.
  \
  ![ElemColl](https://user-images.githubusercontent.com/59823103/132196121-320839c8-ca3e-4529-93b9-07b2e1008bed.PNG)
- \
+ 
 
 :heavy_check_mark: Ajax support through the AjaxPromise class.
  \
  ![ajaxp](https://user-images.githubusercontent.com/59823103/132196368-7dcc60ab-24c9-44e6-9174-55a91493b561.PNG)
- \
+ 
 
 
 ## :rocket: Technologies ##
