@@ -65,7 +65,7 @@ The following tools were used in this project:
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/jqueryclone
+$ git clone https://github.com/Abdul-117/jQuery-clone
 ```
 
 
