@@ -46,11 +46,11 @@
 
 ## :dart: About ##
 
-This is a clone of jQuery, a popular framework used for creating websites. Find out more about jQuery - [here](https://jquery.com/)
+This is a clone of jQuery, a popular framework used for creating websites. Find out more about jQuery  [here](https://jquery.com/)
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: The $() function. This function is used for performing selection operations when passed a string as a parameter. Otherwise it returns an array representation.
+:heavy_check_mark: The $(p) function. This function is used for performing selector operations when passed a string as a parameter (p). Otherwise it returns an array representation of our parameter. ;\
 :heavy_check_mark: Feature 2;\
 :heavy_check_mark: Feature 3;
 
