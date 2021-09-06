@@ -55,7 +55,7 @@ This is a clone of jQuery, a popular framework used for creating websites. Find 
 :heavy_check_mark: An ElementCollector class that extends the Array. It is objects of this class that come with the ready(), on(), next(), prev(), addClass(), removeClass() and css() functions ![ElemColl](https://user-images.githubusercontent.com/59823103/132192830-c6a9537b-47d1-4a08-85ed-ebc7ea0fa260.PNG)
 ;\
 :heavy_check_mark: Ajax support through the AjaxPromise class ![ajaxp](https://user-images.githubusercontent.com/59823103/132193638-86b23a09-460c-4709-8556-97274492bd57.PNG)
-;
+;\
 
 ## :rocket: Technologies ##
 
