@@ -38,7 +38,7 @@
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <!--<a href="#memo-license">License</a> &#xa0; | &#xa0;-->
   <a href="https://github.com/Abdul-117" target="_blank">Author</a>
 </p>
 
@@ -54,11 +54,15 @@ This is a clone of jQuery, a popular framework used for creating websites. Find 
  \
  ![func](https://user-images.githubusercontent.com/59823103/132195910-8ddd8f16-9e6b-4a89-bd4d-2a450df147de.PNG)
  \
-:heavy_check_mark: An ElementCollector class that extends the Array. It is objects of this class that come with the ready(), on(), next(), prev(), addClass(), removeClass() and css() functions.
+:heavy_check_mark: An ElementCollector class that extends Array. It is objects of this class that come with the ready(), on(), next(), prev(), addClass(), removeClass() and css() functions.
  \
  ![ElemColl](https://user-images.githubusercontent.com/59823103/132196121-320839c8-ca3e-4529-93b9-07b2e1008bed.PNG)
+ \
 
 :heavy_check_mark: Ajax support through the AjaxPromise class.
+ \
+ ![ajaxp](https://user-images.githubusercontent.com/59823103/132196368-7dcc60ab-24c9-44e6-9174-55a91493b561.PNG)
+ \
 
 
 ## :rocket: Technologies ##
